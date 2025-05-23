@@ -25,6 +25,7 @@ API endpoint รองรับฟังก์ชันพื้นฐาน ไ
 
 ## วิธีรันโปรเจกต์
 
+```bash
 dotnet restore
 dotnet ef database update
 dotnet run
